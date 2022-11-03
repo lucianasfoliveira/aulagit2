@@ -1,0 +1,20 @@
+//Criar um algoritmo que entre com cinco números e imprimir o quadrado de cada número (usar
+//estrutura para).
+
+programa
+{
+	
+	funcao inicio()
+	{
+		real num
+		inteiro x
+
+	     para (x =1; x <=5; x ++){
+
+                escreva ("Digiste um número:")
+                leia (num)
+                
+                escreva ("A raiz quadrada de ", num , " é ", num*num, ",", "\n")}
+			 
+		}
+	}
